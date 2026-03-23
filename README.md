@@ -37,12 +37,6 @@ After installing, go to **Settings → Sine → Simple Search → Preferences** 
 
 Changes apply **immediately** without a browser restart.
 
-## How to submit to the Sine marketplace
-
-1. Push this repository to your GitHub account
-2. Open a new issue at [CosmoCreeper/Sine](https://github.com/CosmoCreeper/Sine/issues/new?template=add-theme.yml) using the **"Add Theme"** template
-3. The maintainer usually reviews within a day
-
 ## License
 
 MIT
