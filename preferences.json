@@ -1,0 +1,48 @@
+[
+  {
+    "type": "text",
+    "label": "**Tab Search Shortcut Settings**",
+    "size": "18px"
+  },
+  {
+    "type": "separator",
+    "label": "Keyboard Shortcut"
+  },
+  {
+    "type": "text",
+    "label": "Configure the key combination that triggers tab search. Default is ~Shift~ + ~Space~.",
+    "size": "13px",
+    "margin": "0 0 8px 0"
+  },
+  {
+    "type": "string",
+    "label": "**Trigger Key** — Enter a single key (e.g. Space = ` `, or a letter like `k`)",
+    "property": "tabsearchshortcut.key",
+    "placeholder": " "
+  },
+  {
+    "type": "separator",
+    "label": "Modifier Keys"
+  },
+  {
+    "type": "checkbox",
+    "label": "Require **Shift**",
+    "property": "tabsearchshortcut.useShift"
+  },
+  {
+    "type": "checkbox",
+    "label": "Require **Ctrl**",
+    "property": "tabsearchshortcut.useCtrl"
+  },
+  {
+    "type": "checkbox",
+    "label": "Require **Alt**",
+    "property": "tabsearchshortcut.useAlt"
+  },
+  {
+    "type": "text",
+    "label": "*Changes take effect immediately — no restart needed.*",
+    "size": "12px",
+    "margin": "10px 0 0 0"
+  }
+]
