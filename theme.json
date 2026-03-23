@@ -3,7 +3,7 @@
   "description": "Adds a universal Shift+Space keyboard shortcut to instantly open the tab search (%) in the URL bar, searching across all open tabs and workspaces.",
   "id": "simple-search",
   "author": "manuelcontrera",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "tags": ["productivity", "tabs", "keyboard", "shortcut", "search"],
   "js": ["tab-search-shortcut.uc.js"],
   "preferences": "preferences.json"
